@@ -1,0 +1,10 @@
+service/DatabaseConnection.java
+ service.DatabaseConnection
+model/Product.java
+ model.Product
+model/Category.java
+ model.Category
+controller/Servlet.java
+ controller.Servlet
+service/ProductService.java
+ service.ProductService
